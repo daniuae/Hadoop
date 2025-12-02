@@ -1,0 +1,162 @@
+Big Data Platform
+Program Duration: 2 days
+Contents:
+Big Data Overview
+• What’s Big Data?
+• Big Data: 3V’s
+• Explosion of Data
+• What’s driving Big Data
+• Applications for Big Data Analytics
+• Big Data Use Cases
+• Benefits of Big Data
+Hadoop(HDFS)
+• History of Hadoop
+• Distributed File System
+• What is Hadoop
+• Characteristics of Hadoop
+• RDBMS Vs Hadoop(Hive)
+• ETL vs ELT
+• Hadoop Generations
+• Components of Hadoop
+• HDFS Blocks and Replication
+• How Files Are Stored
+• HDFS Commands
+• Hadoop Daemons
+Types of Data
+Structure – tabular data
+Semi Structure – JASON, XML, EMAIL
+Unstructured – Logs, Image, Video
+Data Frequency
+Real Time(Streaming)
+Near Real Time
+Batch
+Type of Files
+Fixed Width
+Delimited
+Mainframe files(EBCDIC)
+AVRO/ORC/PARQUET 
+Compression Techniques
+Gzip
+File level and Block level compression
+Partitioning of Data
+Random/Hash partitioning
+Hadoop 2.0 & YARN
+• Difference between Hadoop 1.0 and 2.0
+• New Components in Hadoop 2.x
+• YARN/MRv2
+• Configuration Files in Hadoop 2.x
+• Major Hadoop Distributors/Vendors
+• Cluster Management & Monitoring
+• Hadoop Downloads
+Map Reduce
+• What is distributed computing
+• Introduction to Map Reduce
+• Map Reduce components
+• How MapReduce works
+• Word Count execution
+• Suitable & unsuitable use cases for MapReduce
+Sqoop
+• Architecture
+• Basic Syntax
+• Import data from a table in a relational database into HDFS
+• import the results of a query from a relational database into HDFS
+• Import a table from a relational database into a new or existing Hive table
+• Insert or update data from HDFS into a table in a relational database
+Flume
+• Given a Flume configuration file, start a Flume agent
+• Given a configured sink and source, configure a Flume memory channel with a specified
+capacity
+Hive Programming overview
+
+
+Big Data Platform ( Hadoop, Hive ), Spark ,Scala
+Program Duration: 5 days
+Contents:
+Hadoop(HDFS)
+• History of Hadoop
+• Distributed File System
+• What is Hadoop
+• Characteristics of Hadoop
+• RDBMS Vs Hadoop
+• Hadoop Generations
+• Components of Hadoop
+• HDFS Blocks and Replication
+• How Files Are Stored
+• HDFS Commands
+• Hadoop Daemons
+Scala
+• An overview of functional programming
+• Why Scala?
+• REPL
+• Working with functions
+• objects and inheritance
+• Working with lists and collections
+<Scala Programming topics to be added>
+Core Big Data and Scala Topics Covered
+Scala vs Java – Similarities & Difference
+✓ Functional Programming vs traditional programming(Scala vs Python)
+✓
+✓ Scala Language Fundamentals
+✓ Configuring for Scala with IntelliJ IDEA
+✓ Scala Design Patterns
+✓ Scala 2 Classes and Objects
+✓ Scala Collections
+✓ Scala Asynchronous Programming 
+✓ Setting up Environment
+✓ Setup Hadoop on Single Node Cluster
+✓ Setup Hive and Spark on Single Node Cluster
+✓ Scala Fundamentals
+✓ Overview of Hadoop HDFS Commands
+✓ Apache Spark 2 using Scala - Data Processing – Overview
+✓ Apache Spark 2 using Scala - Processing Column Data using Pre-
+defined Functions
+✓ Apache Spark 2 using Scala - Basic Transformations using Data Frames
+✓ Apache Spark 2 using Scala - joining Data Sets
+✓ Apache Spark 2 using SQL - Getting Started
+✓ Apache Spark 2 using SQL - Basic Transformations
+✓ Apache Spark 2 using SQL - Basic DDL and DML
+✓ Apache Spark 2 using SQL - DML and Partitioning
+✓ Apache Spark 2 using SQL - Pre -Defined Functions
+✓ Apache Spark 2 using SQL - Pre -Defined Functions - Exercises
+✓ Apache Spark 2 using SQL - Windowing Functions
+✓ Sample scenarios with solutions
+SPARK Basics
+• What is Spark?
+• History of Spark
+• Spark Architecture
+• Spark Shell
+Working with RDDs in Spark
+• RDD Basics
+• Creating RDDs in Spark.
+• RDD Operations.
+• Passing Functions to Spark.
+• Transformations and Actions in Spark
+• Spark RDD Persistence
+Working with Key/Value Pairs
+• Pair RDDs
+• Transformations on Pair RDDs
+• Actions Available on Pair RDDs.
+• Data Partitioning (Advanced)
+• Example: PageRank
+• Loading and Saving the Data.
+Spark Advanced
+• Accumulators
+• Broadcast Variables24 | P a g e
+• Piping to External Programs
+• Numeric RDD Operations
+• Spark Runtime Architecture
+• Deploying Applications
+SPARK with SQL
+• Spark SQL Overview
+• Spark SQL Architecture
+• Catalyst
+• Plan Optimization & Execution
+• ROW API
+Spark streaming
+• What is Spark streaming?
+• Spark streaming : How it works ?
+• Spark DStreams
+• A Twitter example
+• Fault-tolerance
+• Stateful Stream Processing
+pyspark introduction
